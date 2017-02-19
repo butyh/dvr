@@ -3,7 +3,7 @@
 IFS='
 '
 
-VIDEO_PATH=/home/pi/video
+VIDEO_PATH=/home/butyh/video
 
 while true
 do
